@@ -22,4 +22,4 @@ unzip main.zip
 
 echo "Copiando arquivos para o diretorio do apache"
 cd linux-site-dio-main
-cp -R -v *.* /var/www/html/
+cp -rv * /var/www/html/
